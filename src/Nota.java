@@ -40,3 +40,10 @@ class Nota {
     }
 }
 
+
+double total = 0;
+for (int i = 0; i < ; i++) {
+    total += [i].getHarga() * [i];
+}
+return total;
+
